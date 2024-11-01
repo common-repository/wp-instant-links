@@ -1,0 +1,21 @@
+{
+  "name": "wp-instant-links",
+  "version": "1.0.0",
+  "description": "WP wrapper for instant.page which preloads page links on hover",
+  "main": "wp-instant-links.php",
+  "scripts": {
+    "pot": "wp-pot --src '**/*.php' --dest-file 'languages/wp-instant-links.pot' --package 'wp-instant-links'"
+  },
+  "keywords": [
+    "instant",
+    "page",
+    "fast",
+    "loading",
+    "page",
+    "speed",
+    "prefetch",
+    "cdn"
+  ],
+  "author": "Kevin Batdorf",
+  "license": "MIT"
+}
